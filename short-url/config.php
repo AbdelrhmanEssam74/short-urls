@@ -1,10 +1,10 @@
 <?php
 
 try {
-    $host = "localhost";
-    $dbname = "short-urls";
-    $user = "Admin1";
-    $pass = "a123";
+    $host = "";
+    $dbname = "";
+    $user = "";
+    $pass = "";
 
     $conn = new PDO("mysql:host=$host;dbname=$dbname", $user, $pass);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
