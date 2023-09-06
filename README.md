@@ -1,6 +1,6 @@
 # Simple and Fast Short URL Project
-
-This project is a simple implementation of a URL shortening service using PHP, HTML and Bootstrap. It allows users to shorten long URLs into shorter, more manageable links.
+# Sorry, the front-end design is not good
+This project is a simple implementation of a URL-shortening service using PHP, HTML, and Bootstrap. It allows users to shorten long URLs into shorter, more manageable links.
 
 ## Prerequisites
 
